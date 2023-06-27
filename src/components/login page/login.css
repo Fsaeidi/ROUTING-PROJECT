@@ -1,0 +1,29 @@
+
+.form{
+    margin-left: 300px;
+    margin-top: 60px;
+    border-radius: 7px;
+    border: 2px solid rgb(125, 57, 139);
+    width: 400px;
+    height:300px;
+    padding: 20px;
+    background-color: rgb(194, 162, 226);
+    box-shadow: 20px black;
+    
+}
+.div {
+    margin: 10px 100px;
+}
+h3{
+    margin-top: 40px;
+    
+    color: blueviolet;
+    margin-left: 300px;
+}
+.btn{
+    margin-top: 20px;
+    background-color: rgb(97, 197, 97);
+    margin-left: 100px;
+    border-radius: 7px;
+    box-shadow: 10px;
+}
