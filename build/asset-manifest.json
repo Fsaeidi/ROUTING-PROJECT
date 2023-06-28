@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Fsaeidi/routing-project.git/static/css/main.753dfaf1.chunk.css",
+    "main.js": "/Fsaeidi/routing-project.git/static/js/main.18151526.chunk.js",
+    "main.js.map": "/Fsaeidi/routing-project.git/static/js/main.18151526.chunk.js.map",
+    "runtime-main.js": "/Fsaeidi/routing-project.git/static/js/runtime-main.5ec5608e.js",
+    "runtime-main.js.map": "/Fsaeidi/routing-project.git/static/js/runtime-main.5ec5608e.js.map",
+    "static/js/2.7e597340.chunk.js": "/Fsaeidi/routing-project.git/static/js/2.7e597340.chunk.js",
+    "static/js/2.7e597340.chunk.js.map": "/Fsaeidi/routing-project.git/static/js/2.7e597340.chunk.js.map",
+    "index.html": "/Fsaeidi/routing-project.git/index.html",
+    "static/css/main.753dfaf1.chunk.css.map": "/Fsaeidi/routing-project.git/static/css/main.753dfaf1.chunk.css.map",
+    "static/js/2.7e597340.chunk.js.LICENSE.txt": "/Fsaeidi/routing-project.git/static/js/2.7e597340.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ec5608e.js",
+    "static/js/2.7e597340.chunk.js",
+    "static/css/main.753dfaf1.chunk.css",
+    "static/js/main.18151526.chunk.js"
+  ]
+}
